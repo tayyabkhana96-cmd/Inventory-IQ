@@ -1,0 +1,6 @@
+{
+  "name": "Inventory IQ",
+  "description": "Inventory IQ - Real-time inventory tracking, POS barcode scanning, multi-location stock management, user account management, and automated sales reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
